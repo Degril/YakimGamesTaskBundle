@@ -17,7 +17,7 @@ This project is built using .NET 8 and Entity Framework Core 8, demonstrating a 
 
 2.  Navigate to the project directory:
 
-    `cd your-project-directory`
+    `cd YakimGamesTaskBundle`
 
 3.  Restore the .NET packages:
 
